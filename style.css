@@ -164,9 +164,9 @@ footer {
 }
 
 .album-description {
-    margin-top: 10px; /* Space between image and description */
-    font-size: 14px; /* Adjust font size as needed */
-    color: #ffffff61; /* Text color */
+    margin-top: 10px; 
+    font-size: 14px; 
+    color: #ffffff9f; 
     animation: slideIn 1.1s ease-in-out;
 
     cursor: pointer;
